@@ -1,1 +1,1 @@
-# Algorithms-for-Information-Retrieval-and-Intelligent-Web---UE19CS332
+# Algorithms-for-Information-Retrieval-and-Intelligent-Web-UE19CS332
